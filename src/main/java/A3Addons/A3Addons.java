@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package A3Addons;
 
 import net.minecraft.init.Blocks;
 import net.minecraftforge.fml.common.Mod;
@@ -14,7 +14,6 @@ public class A3Addons
     @EventHandler
     public void init(FMLInitializationEvent event)
     {
-		// some example code
-        System.out.println("DIRT BLOCK >> "+Blocks.dirt.getUnlocalizedName());
+        System.out.println("Loaded A3Addons");
     }
 }

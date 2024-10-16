@@ -20,9 +20,9 @@ plugins {
     id "net.minecraftforge.gradle.forge" version "2.0.2"
 }
 */
-version = "1.0"
-group= "com.github.samuel-horner.A3Addons" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "A3Addons"
+version = mod_version
+group= mod_group_id // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = mod_id
 
 minecraft {
     version = "1.8.9-11.15.1.2318-1.8.9"

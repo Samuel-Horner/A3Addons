@@ -1,0 +1,16 @@
+[
+{
+  "modid": "A3Addons",
+  "name": "A3Addons",
+  "description": "Small Hypixel Skyblock mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude", "A3therium"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

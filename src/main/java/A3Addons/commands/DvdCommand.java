@@ -9,7 +9,7 @@ import net.minecraft.util.ChatComponentText;
 public class DvdCommand extends GenericCommand {
 
     public DvdCommand() {
-        super("dvd", new String[]{"help", "str"});
+        super("dvd", new String[]{"help", "str", "speed", "default"});
     }
 
     @Override
